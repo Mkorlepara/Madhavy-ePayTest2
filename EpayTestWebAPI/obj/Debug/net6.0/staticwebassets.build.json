@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O66up8HmGcQCrIZ2CCF72ESD11T8Ta9AVqrBP/VBU54=",
+  "Source": "EpayTestWebAPI",
+  "BasePath": "_content/EpayTestWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
